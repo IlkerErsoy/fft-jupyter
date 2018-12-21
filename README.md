@@ -3,4 +3,4 @@ Simple FFT example notebook to demo Jupyter notebooks
 
 ## Good links: 
 
-(https://jupyter.org/)[https://jupyter.org/]
+[Jupyter Project](https://jupyter.org/)
