@@ -16,10 +16,18 @@ Simple FFT example notebook to demo Jupyter notebooks
 
 To install Python and Jupyter, download and install **[Anaconda](https://www.anaconda.com/)**. 
 
+---
+
+### Basic Markdown for Notebooks
+
+https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html
 
 ---
 
+
 ## FFT Examples Online 
+
+The notebooks in this repo are originally from the following links: 
 
 - https://plot.ly/matplotlib/fft/
 - https://gist.github.com/jedludlow/3919130
